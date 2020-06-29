@@ -3,7 +3,7 @@ var CACHE_NAME = 'pwa-task-manager';
 var urlsToCache = [
   '/',
   '/gallery',
-  ''
+  '/join'
 ];
 
 // Install a service worker
