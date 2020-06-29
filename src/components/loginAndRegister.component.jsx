@@ -139,7 +139,7 @@ const LoginAndRegister = () => {
       });
 
       // Autologin and redirect to transaction page
-      window.location.href = "/transactions";
+      window.location.href = "/gallery";
     }
   };
 
