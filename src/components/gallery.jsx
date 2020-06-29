@@ -16,7 +16,11 @@ const Gallery = () => {
     <Carousel showThumbs={false}>
       {images.map((img, idx) => (
         <div key={idx}>
-          <img src={img} style={{ maxHeight: "89vh", width: "100%" }} />
+          <img
+            src={img}
+            style={{ maxHeight: "89vh", width: "100%" }}
+            alt="img"
+          />
           <p className="legend">Lorem Ipsum</p>
         </div>
       ))}
