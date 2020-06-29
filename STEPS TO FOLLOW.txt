@@ -1,0 +1,14 @@
+# You should have npm installed
+
+# open the terminal inside the folder and
+	run 'npm install'
+
+# after successful installation of app;
+ run 'npm start'
+
+$ The app supports registration of multiple users
+$ the password is encryppted and then saved in the localstorage
+$ Feel free to ask anything specific
+
+Thankyou
+
